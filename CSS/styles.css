@@ -1,0 +1,21 @@
+body{
+  background-color: #EAF6F6;
+}
+
+hr{
+  border-style: none;
+  border-top: 5px dotted grey;
+  /*border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;*/
+  width: 5%; /*Instead of hardcoding a fixed size i.e. 100px, we can code a percentage to fit different screen sizes, i.e. 40% */
+}
+
+h1{
+  color: #66BFBF
+}
+
+h3{
+  color: #66BFBF
+}
